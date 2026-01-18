@@ -1,4 +1,5 @@
 # 分布式Linux性能分析监控
+![项目运行展示图](https://github.com/lpf19898026858/rpc_linux_monitor/blob/main/rpc_linux_monitor.png)   
 技术栈：c++，c++常用特性，docker，grpc，proto，cmake，qt   
 项目简介：   
 1、docker模块：dockerfile指定相应的cmake，grpc，proto等源码和依赖，构建整个项目环境，易于在多台服务器（多台服务器环境的安装）上部署环境，并编写容器操作的脚本指令，易于启动操作项目所依赖的环境。编写了操作docker的shell脚本。   
